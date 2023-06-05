@@ -1,0 +1,17 @@
+D:\LT .NET\TroChoiCoCaro\bin\Debug\netcoreapp3.1\TroChoiCoCaro.exe
+D:\LT .NET\TroChoiCoCaro\bin\Debug\netcoreapp3.1\TroChoiCoCaro.deps.json
+D:\LT .NET\TroChoiCoCaro\bin\Debug\netcoreapp3.1\TroChoiCoCaro.runtimeconfig.json
+D:\LT .NET\TroChoiCoCaro\bin\Debug\netcoreapp3.1\TroChoiCoCaro.runtimeconfig.dev.json
+D:\LT .NET\TroChoiCoCaro\bin\Debug\netcoreapp3.1\TroChoiCoCaro.dll
+D:\LT .NET\TroChoiCoCaro\bin\Debug\netcoreapp3.1\TroChoiCoCaro.pdb
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.csproj.AssemblyReference.cache
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.Properties.Resources.resources
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.csproj.GenerateResource.cache
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.AssemblyInfoInputs.cache
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.AssemblyInfo.cs
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.csproj.CoreCompileInputs.cache
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.dll
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.pdb
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.genruntimeconfig.cache
+D:\LT .NET\TroChoiCoCaro\obj\Debug\netcoreapp3.1\TroChoiCoCaro.FormChuongTrinh.resources
